@@ -8,12 +8,13 @@ const perguntas = [
         enunciado: "Quais são algumas consequências da desigualdade de gênero?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
+                texto: "A desigualdade pode aumentar a sobrecarga das mulheres principalmente quando elas precisam conciliar trabalho, estudos e responsabilidades domésticas
+.",
                 afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
             },
             {
                 texto:  "A desigualdade pode dificultar o crescimento profissional das mulheres e reduzir suas oportunidades de alcançar cargos de liderança",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                afirmacao: "Dedicada à carreira e interessada em igualdade no ambiente profissional."
             }    
            
         ]
