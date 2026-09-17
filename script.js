@@ -22,8 +22,7 @@ const perguntas = [
     },
     {
        
-            enunciado: "Quais atitudes podem contribuir para diminuir a desigualdade de gênero?
-?",
+            enunciado: "Quais atitudes podem contribuir para diminuir a desigualdade de gênero?",
             alternativas: [
                 {
                     texto: "Dividir igualmente as tarefas domésticas e familiares, promovendo uma participação mais equilibrada entre homens e mulheres.",
