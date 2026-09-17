@@ -9,28 +9,30 @@ const perguntas = [
         alternativas: [
             {
                 texto: "A desigualdade pode aumentar a sobrecarga das mulheres principalmente quando elas precisam conciliar trabalho, estudos e responsabilidades domésticas.",
-                afirmacao: "Valoriza a divisão equilibrada das responsabilidades e acredita que homens e mulheres devem participar igualmente das tarefas familiares".,
-                         " Defende a participação igualitária de homens e mulheres nas tarefas do dia a dia."
+                afirmacao:[ "Valoriza a divisão equilibrada das responsabilidades e acredita que homens e mulheres devem participar igualmente das tarefas familiares".,
+                         " Defende a participação igualitária de homens e mulheres nas tarefas do dia a dia."]
             },
             {
                 texto:  "A desigualdade pode dificultar o crescimento profissional das mulheres e reduzir suas oportunidades de alcançar cargos de liderança",
-                afirmacao: "Dedicada à carreira e interessada em igualdade no ambiente profissional.",
-                            "Profissional dedicada ao crescimento na carreira e à promoção da equidade no ambiente de trabalho."
+                afirmacao:[ "Dedicada à carreira e interessada em igualdade no ambiente profissional.",
+                            "Profissional dedicada ao crescimento na carreira e à promoção da equidade no ambiente de trabalho."]
             }    
            
         ]
     },
     {
        
-            enunciado: "As fontes renováveis de energia são aquelas formas de produção de energia em que suas fontes são capazes de manter-se disponíveis durante um longo prazo, contando com recursos que se regeneram ou que se mantêm ativos permanentemente. Com base nisso, temos a energia geotérmica, que consiste em utilizar o calor manifestado em áreas próximas à superfície. Qual a sua opinião sobre esse modelo de energia renovável?",
+            enunciado: "Quais atitudes podem contribuir para diminuir a desigualdade de gênero?
+?",
             alternativas: [
                 {
-                    texto: "A energia geotérmica precisa ser mais explorada visto que utiliza o calor interno da terra, pois não depende do clima e é inesgotável.",
-                    afirmacao: "Você demonstra um perfil  de pesquisador e inovador que busca por meio da inovação soluções para o meio ambiente e sustentabilidade das gerações posteriores."
+                    texto: "Dividir igualmente as tarefas domésticas e familiares, promovendo uma participação mais equilibrada entre homens e mulheres.",
+                    afirmacao:[ "Valoriza a divisão equilibrada das responsabilidades familiares e acredita na participação igualitária nas tarefas do dia a dia.",
+                    "Acredita na divisão justa das responsabilidades familiares e na participação de todos nas tarefas cotidianas."]
                 },
                 {
                     texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    afirmacao: ["Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
                 }    
                
             ]
@@ -41,17 +43,16 @@ const perguntas = [
             alternativas: [
                 {
                     texto: "A desigualdade pode ser percebida no mercado de trabalho, principalmente quando mulheres recebem salários menores ou têm menos oportunidades de ocupar cargos de liderança",
-",
-                    afirmacao: "Dedicada à carreira e interessada em igualdade no ambiente profissional.",
-                    "Comprometida com o desenvolvimento profissional e com a promoção da igualdade no ambiente de trabalho." 
+                    afirmacao: ["Dedicada à carreira e interessada em igualdade no ambiente profissional.",
+                    "Comprometida com o desenvolvimento profissional e com a promoção da igualdade no ambiente de trabalho." ]
 
 "
                 },
                 {
                     texto:    "A desigualdade também pode aparecer dentro de casa, quando as mulheres assumem a maior parte das tarefas domésticas e dos cuidados com os filhos",
                
-                    afirmacao: "Acredita que as responsabilidades domésticas devem ser divididas igualmente entre todos os membros da família.",
-                    "Defende uma divisão equilibrada das responsabilidades domésticas entre todos os integrantes da família."
+                    afirmacao: ["Acredita que as responsabilidades domésticas devem ser divididas igualmente entre todos os membros da família.",
+                    "Defende uma divisão equilibrada das responsabilidades domésticas entre todos os integrantes da família."]
                 }    
                
             ]
