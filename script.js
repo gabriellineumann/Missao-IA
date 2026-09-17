@@ -36,20 +36,21 @@ const perguntas = [
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: " Como a desiguladae pode ser percebida?",
 
             alternativas: [
                 {
                     texto: "A desigualdade pode ser percebida no mercado de trabalho, principalmente quando mulheres recebem salários menores ou têm menos oportunidades de ocupar cargos de liderança.
 ",
-                    afirmacao: "dedicada à carreira e interessada em igualdade no ambiente profissional. 
+                    afirmacao: "Dedicada à carreira e interessada em igualdade no ambiente profissional. 
 
 "
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "A desigualdade também pode aparecer dentro de casa, quando as mulheres assumem a maior parte das tarefas domésticas e dos cuidados com os filhos",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "Acredita que as responsabilidades domésticas devem ser divididas igualmente entre todos os membros da família.
+."
                 }    
                
             ]
