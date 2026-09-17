@@ -9,8 +9,8 @@ const perguntas = [
         alternativas: [
             {
                 texto: "A desigualdade pode aumentar a sobrecarga das mulheres principalmente quando elas precisam conciliar trabalho, estudos e responsabilidades domésticas.",
-                afirmacao: "valoriza a divisão equilibrada das responsabilidades e acredita que homens e mulheres devem participar igualmente das tarefas familiares".,
-                         " defende a participação igualitária de homens e mulheres nas tarefas do dia a dia."
+                afirmacao: "Valoriza a divisão equilibrada das responsabilidades e acredita que homens e mulheres devem participar igualmente das tarefas familiares".,
+                         " Defende a participação igualitária de homens e mulheres nas tarefas do dia a dia."
             },
             {
                 texto:  "A desigualdade pode dificultar o crescimento profissional das mulheres e reduzir suas oportunidades de alcançar cargos de liderança",
@@ -40,17 +40,18 @@ const perguntas = [
 
             alternativas: [
                 {
-                    texto: "A desigualdade pode ser percebida no mercado de trabalho, principalmente quando mulheres recebem salários menores ou têm menos oportunidades de ocupar cargos de liderança.
+                    texto: "A desigualdade pode ser percebida no mercado de trabalho, principalmente quando mulheres recebem salários menores ou têm menos oportunidades de ocupar cargos de liderança",
 ",
-                    afirmacao: "Dedicada à carreira e interessada em igualdade no ambiente profissional. 
+                    afirmacao: "Dedicada à carreira e interessada em igualdade no ambiente profissional.",
+                    "Comprometida com o desenvolvimento profissional e com a promoção da igualdade no ambiente de trabalho." 
 
 "
                 },
                 {
                     texto:    "A desigualdade também pode aparecer dentro de casa, quando as mulheres assumem a maior parte das tarefas domésticas e dos cuidados com os filhos",
                
-                    afirmacao: "Acredita que as responsabilidades domésticas devem ser divididas igualmente entre todos os membros da família.
-."
+                    afirmacao: "Acredita que as responsabilidades domésticas devem ser divididas igualmente entre todos os membros da família.",
+                    "Defende uma divisão equilibrada das responsabilidades domésticas entre todos os integrantes da família."
                 }    
                
             ]
