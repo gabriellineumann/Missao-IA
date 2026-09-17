@@ -46,7 +46,7 @@ const perguntas = [
                     afirmacao: ["Dedicada à carreira e interessada em igualdade no ambiente profissional.",
                     "Comprometida com o desenvolvimento profissional e com a promoção da igualdade no ambiente de trabalho." ]
 
-"
+
                 },
                 {
                     texto:    "A desigualdade também pode aparecer dentro de casa, quando as mulheres assumem a maior parte das tarefas domésticas e dos cuidados com os filhos",
