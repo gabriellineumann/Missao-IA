@@ -31,8 +31,9 @@ const perguntas = [
                     "Acredita na divisão justa das responsabilidades familiares e na participação de todos nas tarefas cotidianas."]
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: ["Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Garantir oportunidades iguais no ambiente profissional, independentemente do gênero. ",
+                    afirmacao: ["Valoriza a igualdade de oportunidades e acredita na importância de um ambiente profissional mais justo e inclusivo.",
+                        "Defende oportunidades iguais e valoriza a construção de um ambiente de trabalho mais justo, respeitoso e inclusivo."]
                 }    
                
             ]
