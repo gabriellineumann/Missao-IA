@@ -8,14 +8,14 @@ const perguntas = [
         enunciado: "Quais são algumas consequências da desigualdade de gênero?",
         alternativas: [
             {
-                texto: "A desigualdade pode aumentar a sobrecarga das mulheres principalmente quando elas precisam conciliar trabalho, estudos e responsabilidades domésticas
-.",
-                afirmacao: "valoriza a divisão equilibrada das responsabilidades e acredita que homens e mulheres devem participar igualmente das tarefas familiares.
-."
+                texto: "A desigualdade pode aumentar a sobrecarga das mulheres principalmente quando elas precisam conciliar trabalho, estudos e responsabilidades domésticas.",
+                afirmacao: "valoriza a divisão equilibrada das responsabilidades e acredita que homens e mulheres devem participar igualmente das tarefas familiares".,
+                         " defende a participação igualitária de homens e mulheres nas tarefas do dia a dia."
             },
             {
                 texto:  "A desigualdade pode dificultar o crescimento profissional das mulheres e reduzir suas oportunidades de alcançar cargos de liderança",
-                afirmacao: "Dedicada à carreira e interessada em igualdade no ambiente profissional."
+                afirmacao: "Dedicada à carreira e interessada em igualdade no ambiente profissional.",
+                            "Profissional dedicada ao crescimento na carreira e à promoção da equidade no ambiente de trabalho."
             }    
            
         ]
