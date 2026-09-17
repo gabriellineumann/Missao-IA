@@ -10,7 +10,8 @@ const perguntas = [
             {
                 texto: "A desigualdade pode aumentar a sobrecarga das mulheres principalmente quando elas precisam conciliar trabalho, estudos e responsabilidades domésticas
 .",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                afirmacao: "valoriza a divisão equilibrada das responsabilidades e acredita que homens e mulheres devem participar igualmente das tarefas familiares.
+."
             },
             {
                 texto:  "A desigualdade pode dificultar o crescimento profissional das mulheres e reduzir suas oportunidades de alcançar cargos de liderança",
