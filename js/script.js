@@ -9,7 +9,7 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "A desigualdade pode aumentar a sobrecarga das mulheres principalmente quando elas precisam conciliar trabalho, estudos e responsabilidades domésticas.",
-                afirmacao:[ "Valoriza a divisão equilibrada das responsabilidades e acredita que homens e mulheres devem participar igualmente das tarefas familiares".,
+                afirmacao:[ "Valoriza a divisão equilibrada das responsabilidades e acredita que homens e mulheres devem participar igualmente das tarefas familiares",
                          " Defende a participação igualitária de homens e mulheres nas tarefas do dia a dia."]
             },
             {
