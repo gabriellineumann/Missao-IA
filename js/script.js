@@ -14,7 +14,12 @@ let historiaFinal = "";
 function mostraPergunta(){
     if(atual >= perguntas.length){
        
-        mostraResultado();
+        mostraResultado(){
+            caixaPerguntas.textContent = "Em 2049...";
+textoResultado.textContent = historiaFinal;
+caixaAlternativas.textContent = "";
+botaoJogarNovamente.addEventListener("click", jogaNovamente());
+        }
         return;
     }
     perguntaAtual = perguntas[atual];
